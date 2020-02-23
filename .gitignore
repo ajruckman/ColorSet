@@ -1,0 +1,8 @@
+bin
+obj
+/packages/
+_published/
+node_modules/
+.idea/
+*.DotSettings.user
+.vs

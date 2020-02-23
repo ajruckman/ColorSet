@@ -1,0 +1,12 @@
+{
+    "Steps":    4,
+    "HueStart": 328,
+    "HueEnd":   328,
+    "HueCurve": "linear",
+    "SatStart": 3,
+    "SatEnd":   3,
+    "SatCurve": "linear",
+    "LumStart": 100,
+    "LumEnd":   96,
+    "LumCurve": "easeInQuad"
+}
