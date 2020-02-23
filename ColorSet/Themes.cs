@@ -5,9 +5,9 @@ using System.Collections.Generic;
 
 namespace ColorSet
 {
-    internal static class Specs
+    public static class Specs
     {
-        internal static readonly List<string> Themes = new List<string>
+        public static readonly List<string> Themes = new List<string>
         {
             "Light",
             "Dark",
