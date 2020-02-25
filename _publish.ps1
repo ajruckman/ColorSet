@@ -7,8 +7,14 @@ function Clean-DotNETProject
 }
 
 Clean-DotNETProject
+dotnet restore
 
 cd .\ColorSet\
+
+cd .\ColorGenerator\
+npm install
+cd ..
+
 dotnet run
 cd ..
 
